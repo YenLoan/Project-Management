@@ -26,14 +26,14 @@ Check out all Google Career Certificates [here](https://www.coursera.org/google-
 
 ---
 
-## 1. Foundations of Project Management
+## 1. [Foundations of Project Management](https://github.com/YenLoan/Project-Management/wiki/1.-Foundations-of-Project-Management)
 
-## 2. Project Initiation: Starting a Successful Project
+## 2. [Project Initiation: Starting a Successful Project](https://github.com/YenLoan/Project-Management/wiki/2.-Project-Initiation:-Starting-a-Successful-Project)
 
-## 3. Project Planning: Putting It All Together
+## 3. [Project Planning: Putting It All Together]()
 
-## 4. Project Execution: Running the Project
+## 4. [Project Execution: Running the Project]()
 
-## 5. Agile Project Management
+## 5. [Agile Project Management]()
 
 ## 6. Capstone: Applying Project Management in the Real World
