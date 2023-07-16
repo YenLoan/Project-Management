@@ -1,7 +1,7 @@
 # [Google Project Management Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
 
-### [My Certificate URL](https://www.coursera.org/account/accomplishments/professional-cert/6MXZF99NWZ6Q)
-![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6MXZF99NWZ6Q/CERTIFICATE_LANDING_PAGE~6MXZF99NWZ6Q.jpeg)
+### [My Certificate URL](https://www.coursera.org/account/accomplishments/specialization/certificate/3TLGTD7MFAVP)
+![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~3TLGTD7MFAVP/CERTIFICATE_LANDING_PAGE~3TLGTD7MFAVP.jpeg)
 
 ---
 ### About this Professional Certificate
